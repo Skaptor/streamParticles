@@ -6,7 +6,7 @@ int main(void)
 {
     particle_init();
 
-    printf("Hello World! alekey y ware :V\r\n");
+    printf("como no apestar en VSCODE :V\r\n");    
 
     uint32_t times = 10;
 
